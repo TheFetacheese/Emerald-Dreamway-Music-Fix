@@ -1,0 +1,4 @@
+## Interface: 70100
+## Title: Emerald Dreamway Music Fix
+## Author: Alexander Moy (Fetacheese)
+## Version: 0.1
