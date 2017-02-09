@@ -1,4 +1,7 @@
 ## Interface: 70100
 ## Title: Emerald Dreamway Music Fix
 ## Author: Alexander Moy (Fetacheese)
+## Notes: does not work yet
 ## Version: 0.1
+
+main.lua
